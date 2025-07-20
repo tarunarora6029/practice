@@ -1,0 +1,3 @@
+/iris.csv
+!iris.csv.dvc
+!artifacts/**.dvc
